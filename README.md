@@ -14,6 +14,10 @@ Security analysis of McDonald's (MCD).
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/MCD-Security-Analysis/main/images/mcd-report.PNG"><br><br>
+</div>
+
+<div align="center">
   <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/home-1.PNG"><br><br>
 </div>
 
